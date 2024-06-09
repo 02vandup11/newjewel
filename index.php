@@ -41,10 +41,10 @@
                             <a href="./main/admin/adminlogin.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Admin</a>
                         </li>
                         <li>
-                            <a href="./login.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">User Login</a> 
+                            <a href="./main/user/login.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">User Login</a> 
                         </li>
                         <li>
-                            <a href="./signup.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">User Sign up</a>
+                            <a href="./main/user/signup.php" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">User Sign up</a>
                         </li>
                     </ul>
                 </div>
@@ -74,7 +74,7 @@
                     <div class="px-10 max-w-xl">
                         <h2 class="text-2xl text-white font-semibold">Ethnic Jewelry</h2>
                         <p class="mt-2 text-gray-400">Elevate your style with our timeless ethnic jewels – where tradition meets sophistication. Explore heritage-inspired craftsmanship for the modern connoisseur. Embrace elegance, celebrate culture.</p>
-                        <a href="login.php" class="flex items-center mt-4 px-3 py-2 w-40 bg-yellow-600 text-white text-sm uppercase font-medium rounded hover:bg-yellow-500 focus:outline-none focus:bg-yellow-500">
+                        <a href="./main/user/login.php" class="flex items-center mt-4 px-3 py-2 w-40 bg-yellow-600 text-white text-sm uppercase font-medium rounded hover:bg-yellow-500 focus:outline-none focus:bg-yellow-500">
                                 <span>Shop Now</span>
                                 <svg class="h-5  mx-2" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" stroke="currentColor"><path d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
                             </a>
@@ -88,7 +88,7 @@
                         <div class="px-10 max-w-xl">
                             <h2 class="text-2xl text-white font-semibold">Captivating Elegance</h2>
                             <p class="mt-2 text-gray-400">Embrace Tradition with Our Ethnic Bangles Collection. Adorn Your Wrists with Timeless Craftsmanship and Cultural Splendor. Unveil the Artistry of Heritage.</p>
-                            <a href="login.php" class="flex items-center mt-4 text-white text-sm uppercase font-medium rounded hover:underline focus:outline-none">
+                            <a href="./main/user/login.php" class="flex items-center mt-4 text-white text-sm uppercase font-medium rounded hover:underline focus:outline-none">
                                 <span>Shop Now</span>
                                 <svg class="h-5 w-5 mx-2" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" stroke="currentColor"><path d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
                             </a>
@@ -101,7 +101,7 @@
                         <div class="px-10 max-w-xl">
                             <h2 class="text-2xl text-white font-semibold">Radiance Refined</h2>
                             <p class="mt-2 text-gray-400">Elevate your style with our stunning rings, where tradition meets modern elegance. Discover the perfect blend of craftsmanship and sophistication.</p>
-                            <a href="login.php" class="flex items-center mt-4 text-white text-sm uppercase font-medium rounded hover:underline focus:outline-none">
+                            <a href="./main/user/login.php" class="flex items-center mt-4 text-white text-sm uppercase font-medium rounded hover:underline focus:outline-none">
                                 <span>Shop Now</span>
                                 <svg class="h-5 w-5 mx-2" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" stroke="currentColor"><path d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
                             </a>
@@ -218,7 +218,7 @@
                         <div class="px-10 max-w-xl">
                             <h2 class="text-2xl text-white font-semibold">Royal Splendor</h2>
                             <p class="mt-2 text-gray-400">Step into Royalty with Our Exquisite Bangles Collection. Revel in the Opulence of Traditional Designs and Majestic Craftsmanship. Experience the Regal Charm on Your Wrist.</p>
-                            <a href="login.php" class="flex items-center mt-4 text-white text-sm uppercase font-medium rounded hover:underline focus:outline-none">
+                            <a href="./main/user/login.php" class="flex items-center mt-4 text-white text-sm uppercase font-medium rounded hover:underline focus:outline-none">
                                 <span>Shop Now</span>
                                 <svg class="h-5 w-5 mx-2" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" stroke="currentColor"><path d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
                             </a>
@@ -230,7 +230,7 @@
                         <div class="px-10 max-w-xl">
                             <h2 class="text-2xl text-white font-semibold">Timeless Grace</h2>
                             <p class="mt-2 text-gray-400">Indulge in the Charm of Timeless Elegance with Our Ethnic Bangles Collection. Celebrate the Rich Heritage and Artisanal Mastery. Let Your Style Reflect the Beauty of Tradition.</p>
-                            <a href="login.php" class="flex items-center mt-4 text-white text-sm uppercase font-medium rounded hover:underline focus:outline-none">
+                            <a href="./main/user/login.php" class="flex items-center mt-4 text-white text-sm uppercase font-medium rounded hover:underline focus:outline-none">
                                 <span>Shop Now</span>
                                 <svg class="h-5 w-5 mx-2" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" stroke="currentColor"><path d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
                             </a>
@@ -253,7 +253,7 @@
                 </svg>
                 <span class="sr-only">Discount</span>
             </span>
-            <span>To Explore more products <a href="login.php" class="flex items-center ms-0 text-sm font-medium text-amber-600 md:ms-1 md:inline-flex dark:text-amber-500 hover:underline">Login Now <svg class="w-3 h-3 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+            <span>To Explore more products <a href="./main/user/login.php" class="flex items-center ms-0 text-sm font-medium text-amber-600 md:ms-1 md:inline-flex dark:text-amber-500 hover:underline">Login Now <svg class="w-3 h-3 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
   </svg></a></span>
         </p>
@@ -270,7 +270,7 @@
 
     
 <?php
-    include("./layout/footer/footer.php");
+    include("./main/user/layout/footer/footer.php");
 ?>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.0/flowbite.min.js"></script>
